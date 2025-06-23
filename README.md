@@ -1,1 +1,2 @@
 # odin-recipes
+This is a webpage project to create a page with a recipe. Once completed I will have demonstrated the skills of creating and developing html files included references to other local files and images.
